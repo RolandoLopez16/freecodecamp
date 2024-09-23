@@ -1,0 +1,12 @@
+{
+  "name": "proyectoi",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "Rolando López",
+  "license": "ISC",
+  "description": "Este es un proyecto para freecodecamp"
+}
